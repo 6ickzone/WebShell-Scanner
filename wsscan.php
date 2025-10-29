@@ -211,7 +211,7 @@ function run_scan($start='.', $maxDepth=10, $whitelistPatterns = [], $modified_r
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Webshell Scanner</title>
+<title>WebShell Scanner</title>
 <style>
   body{ font-family:"Segoe UI",sans-serif; margin:18px; background:#f9fafb }
   .container { max-width:960px;margin:auto }
