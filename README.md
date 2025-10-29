@@ -1,4 +1,4 @@
-# 🔎 6ickzone's PHP Webshell Scanner
+# 🔎 PHP Webshell Scanner
 **Version:** 1.2.3
 
 A lightweight, single-file PHP backdoor scanner with a simple web UI. Designed for rapid incident response and defensive security analysis.
