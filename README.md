@@ -27,7 +27,7 @@ This tool helps Blue Teams and web administrators quickly find suspicious or mal
 
 ## 🖼️ Screenshot
 
-![6ickzone Webshell Scanner UI](wsscn.jpg)
+![6ickzone Webshell Scanner UI](wsscn.png)
 
 ---
 
